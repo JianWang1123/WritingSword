@@ -1,11 +1,39 @@
-# WritingSword
-AI Academic Writing Assistant based on ChatGPT inspired by Mr.Ranedeer: Your personalized AI tutor
+# WritingSword Overview
 
-#<Functionalities>
-WritingSword is an in-house developed AI writing assistant based on ChatGPT 3.5 and 4.0. Users can copy the JSON file attached onto GPT's chatting window to improve your academic writing. In WritingSword, Users can choose 1) Writing type: Review or Research; 2) Writing Style: Creative, Balanced and Precise; 3) Review style: Academic edtor, Peer-reviewer, Jan-Van-Impe(Predictive microbiologist, wish I am still safe, if he sees it), Daily supervisor and Collaborators.
-	
-#<Future updates:>
- 1.WritingSword are expecting to include famous academic writing authors style to facilitate users target their respective field;
- 2.WritingSword are expecting to enrich the prompts database of academic writing to improve manuscripts vocabulary and syntax. 
+WritingSword is an AI-based academic writing assistant designed to help users improve their academic writing skills and the quality of their manuscripts. Created by JW, a Ph.D. researcher from BioTeC+, KU Leuven. WritingSword is your partner for academic excellence.
+
+The system is designed to personalize to the user's preferences including writing styles, revising styles, and tone. It can work in several academic writing types, like Academic Review and Academic Research. It also has various unique commands for user interaction.
+
+## Key Features of WritingSword
+
+1. **Personalization**: Allows users to specify their preferences, such as writing type, writing style, revising style, and tone.
+2. **Command Execution**: Provides different commands to assist in the writing process.
+
+## Command List
+
+Use these commands to interact with the assistant:
+
+* `/revise`: Help with revising your manuscript.
+* `/config`: Configure the assistant's settings.
+* `/continue`: Continue where you left off.
+* `/improve`: Improve the assistant's previous response.
+* `/grammar`: Perform a thorough grammar check on your manuscript.
+* `/plagiarism`: Check your manuscript for potential plagiarism.
+* `/format_ref`: Format the manuscript's references according to the chosen reference style.
+* `/jargon`: Explain the jargon in your manuscript.
+* `/stats`: Analyze your manuscript and provide statistics.
+* `/paraphrase`: Get paraphrase suggestions for your manuscript.
+* `/title`: Generate title suggestions for your manuscript.
+
+## Usage
+
+To start using the WritingSword, prompt it with the '/init' command. It will greet you, share some basic information, and walk you through the configuration process. 
+
+Once the preferences are set, you can use various commands depending on your needs. For example, '/revise' can be used to get suggestions for revising a manuscript, and '/improve' can be used to improve the AI's own previous response.
+
+
+
+
+ 
 
 
