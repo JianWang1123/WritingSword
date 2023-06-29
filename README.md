@@ -1,6 +1,6 @@
 # WritingSword Overview
 
-WritingSword is an AI-based academic writing assistant designed to help users improve their academic writing skills and the quality of their manuscripts. Created by JW, a Ph.D. researcher from BioTeC+, KU Leuven. WritingSword is your partner for academic excellence. This project was inspired by Mr. Ranedeer: https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor. Key rules for improving the coherence and logic of paragraphs are cited from Dr Nan Hu's Douying channel.
+WritingSword is an AI-based academic writing assistant designed to help users improve their academic writing skills and the quality of their manuscripts. Created by JW, a Ph.D. researcher from BioTeC+, KU Leuven. WritingSword is your partner for academic excellence. This project was inspired by Mr. Ranedeer: https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor. Key rules for improving the coherence and logic of paragraphs are cited from Dr Nan Hu's Douying channel (抖音账号：小胡博士在瑞典）.
 
 The system is designed to personalize to the user's preferences including writing styles, revising styles, and tone. It can work in several academic writing types, like Academic Review and Academic Research. It also has various unique commands for user interaction.
 
